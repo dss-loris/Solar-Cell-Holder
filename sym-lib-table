@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Solar-Cell-Holder-rescue)(type Legacy)(uri ${KIPRJMOD}/Solar-Cell-Holder-rescue.lib)(options "")(descr ""))
+)
