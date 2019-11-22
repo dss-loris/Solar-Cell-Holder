@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Triple-Junction-Breakout-Board)(type KiCad)(uri C:/Users/Brandon/OneDrive/Triple-Junction-Breakout-Board.pretty)(options "")(descr ""))
+  (lib (name Triple-Junction-Breakout)(type KiCad)(uri ${KIPRJMOD}/Triple-Junction-Breakout.pretty)(options "")(descr ""))
+)

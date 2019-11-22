@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# XTJ
+#
+DEF XTJ U 0 40 Y Y 1 F N
+F0 "U" 0 300 50 H V C CNN
+F1 "XTJ" 0 350 50 H V C CNN
+F2 "" 0 250 50 H I C CNN
+F3 "" 0 250 50 H I C CNN
+DRAW
+S -200 -200 250 250 0 1 0 N
+X Negative1 1 -150 -300 100 U 50 50 1 1 I
+X Negative2 2 -50 -300 100 U 50 50 1 1 I
+X Negative3 3 50 -300 100 U 50 50 1 1 I
+X Positive 4 200 -300 100 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
